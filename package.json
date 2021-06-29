@@ -1,0 +1,14 @@
+{
+  "name": "export_excel",
+  "version": "1.0.0",
+  "description": "Script tp export json data into excel sheet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hassan Jarko",
+  "license": "MIT",
+  "dependencies": {
+    "xlsx": "^0.17.0"
+  }
+}
